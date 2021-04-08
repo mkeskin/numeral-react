@@ -1,13 +1,9 @@
 {
-  "name": "numeral-react",
+  "name": "@mkeskin/numeral-react",
   "version": "1.0.0",
   "description": "Numeral React Input",
   "license": "MIT",
-  "author": {
-    "name": "Mustafa Keskin",
-    "email": "mustafa@keskin.work",
-    "url": "https://github.com/mkeskin"
-  },
+  "author": "Mustafa Keskin <mustafa@keskin.work> (https://github.com/mkeskin)",
   "keywords": [
     "numeral",
     "number",
@@ -19,7 +15,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mkeskin/numeral-react"
+    "url": "git+https://github.com/mkeskin/numeral-react.git"
   },
   "bugs": {
     "url": "https://github.com/mkeskin/numeral-react/issues"
@@ -71,5 +67,6 @@
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
-  }
+  },
+  "homepage": "https://github.com/mkeskin/numeral-react#readme"
 }

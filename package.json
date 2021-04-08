@@ -1,9 +1,10 @@
 {
-  "name": "@mkeskin/numeral-react",
+  "name": "numeral-react",
   "version": "1.0.0",
   "description": "Numeral React Input",
   "license": "MIT",
   "author": "Mustafa Keskin <mustafa@keskin.work> (https://github.com/mkeskin)",
+  "homepage": "https://github.com/mkeskin/numeral-react",
   "keywords": [
     "numeral",
     "number",
@@ -67,6 +68,5 @@
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
-  },
-  "homepage": "https://github.com/mkeskin/numeral-react#readme"
+  }
 }
